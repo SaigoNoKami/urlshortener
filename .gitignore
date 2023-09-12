@@ -1,0 +1,12 @@
+# environment files
+*.env
+
+# vscode local configuration
+.vscode
+
+# dependencies
+node_modules
+
+build/
+dist/
+
